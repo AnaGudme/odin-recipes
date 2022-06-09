@@ -1,0 +1,22 @@
+.title,
+.subtitle,
+.picture {
+    text-align: center;
+}
+
+.title {
+    font-family:Georgia, 'Times New Roman';
+    font-size: 48px;
+}
+
+.para {
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    text-align: justify;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
+
